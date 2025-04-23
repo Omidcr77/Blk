@@ -1,5 +1,5 @@
 sudo apt install -y \
-  python3 python3-pip idle-python3.10 \
+  python3 python3-pip idle-python3.13 \
   code \
   gedit vim \
   openjdk-17-jdk \
@@ -7,4 +7,3 @@ sudo apt install -y \
   git \
   libreoffice \
   gparted \
-  firefox
