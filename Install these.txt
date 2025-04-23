@@ -1,0 +1,10 @@
+sudo apt install -y \
+  python3 python3-pip idle-python3.10 \
+  code \
+  gedit vim \
+  openjdk-17-jdk \
+  build-essential \
+  git \
+  libreoffice \
+  gparted \
+  firefox
